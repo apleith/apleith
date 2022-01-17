@@ -1,12 +1,10 @@
-# APLEITH
+# AP Leith, Ph.D.
 
-### ASSISTANT PROFESSOR OF MEDIA ANALYTICS AND DESIGN
-### DATA SCIENTIST + DIGITAL ANTHROPOLOGIST
-
-I am a passionate advocate and examiner of online culture, digital games, and livestreaming. My research passions include social data and video games. I am particularly interested in examining the growing phenomenon of gameplay livestreamers and the communities that are built around them. Along with teaching, I occasionally take on private consulting contracts for both individuals and teams.
-
-
-
+- 🎓 I have a Ph.D. in Media & Information Studies from Michigan State University
+- 💻 I student text-based messages around online communities, virtual reality, and remote work
+- 🎮 I tend to gear my research to video games and video game communities, both players and streamers.
+- 💬 I am available for consultations with individual content creators and organizations.
+- 📫 You can reach me best through [Twitter](https://twitter.com/APLeith).
 
 <!--
 ### Hi there 👋

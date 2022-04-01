@@ -17,7 +17,7 @@
 <br>
 
 ## __GitHub Language Usage__
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith&layout=compact)](https://github.com/apleith)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith&layout=compact&theme=dracula)](https://github.com/apleith)
 
 <!--
 ### Hi there 👋

@@ -1,38 +1,56 @@
-## __AP Leith, Ph.D.__
+## 👋 Welcome — I'm **Dr. AP Leith**
 
-- 🎓 I have a Ph.D. in Media & Information Studies from Michigan State University
-- 💻 I student text-based messages around online communities, virtual reality, and remote work
-- 🎮 I tend to gear my research to video games and video game communities, both players and streamers.
-- 💬 I am available for consultations with individual content creators and organizations.
-- 📫 You can reach me best through [Twitter](https://twitter.com/APLeith).
+**Associate Professor, Mass Communications**
+**Director, The SIM Lab @ SIUE**
+📍 Southern Illinois University Edwardsville | 🌐 [apleith.github.io](https://apleith.github.io) | 🐦 [@APLeith](https://twitter.com/APLeith)
 
-<br>
+---
 
-## __Technical Skills__
-![R](https://img.shields.io/badge/R-4B8BBE?style=for-the-badge&logo=R&logoColor=BFC2C5) ![Python](https://img.shields.io/badge/python-646464?style=for-the-badge&logo=python&logoColor=FFE873)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+### 🧠 About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-602C50?style=for-the-badge&logo=bootstrap&logoColor=white) 
+I research **social and interactive media** with a focus on how people communicate in **virtual reality**, **remote work environments**, and **gaming cultures**. My work draws from **computational methods**, **mixed-methods design**, and **theoretical media analysis**, with the goal of shaping more inclusive, equitable, and engaging digital spaces.
 
+Current project areas include:
 
-<br>
+* 🕶️ Virtual reality and the future of work
+* 🧠 Designing platforms with and for neurodivergent users
+* 🎮 Toxicity and communication in online gaming spaces
+* 📺 Parasocial relationships between streamers and audiences
 
-## __GitHub Language Usage__
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith&layout=compact&theme=dracula)](https://github.com/apleith)
+I direct [**The SIM Lab @ SIUE**](https://sim-lab-siue.github.io), where I collaborate with students and colleagues on funded research and applied media studies. My work has been published in *Computers & Education*, *Communication Monographs*, *Psychology of Popular Media*, *IEEE Transactions on Games*, and more.
 
-<!--
-### Hi there 👋
+---
 
+### 📬 Get in Touch
 
-**apleith/apleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm available for consultations with:
 
-Here are some ideas to get you started:
+* Independent content creators
+* Organizations working in media, gaming, or immersive tech
+* Academic collaborators and research students
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** [aleith@siue.edu](mailto:aleith@siue.edu)
+🐦 **Twitter/X:** [@APLeith](https://twitter.com/APLeith)
+🔗 **Website:** [apleith.github.io](https://apleith.github.io)
+
+---
+
+### 🧰 Technical Skills
+
+![R](https://img.shields.io/badge/R-4B8BBE?style=for-the-badge\&logo=R\&logoColor=BFC2C5)
+![Python](https://img.shields.io/badge/python-646464?style=for-the-badge\&logo=python\&logoColor=FFE873)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge\&logo=PostgreSQL\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-602C50?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+### 📊 GitHub Language Usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith\&layout=compact\&theme=dracula)](https://github.com/apleith)
+
+---
+
+Would you like a version of this tailored for LinkedIn or a shorter bio version for conference use?

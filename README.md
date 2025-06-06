@@ -1,7 +1,9 @@
 ## 👋 Welcome — I'm **Dr. AP Leith**
 
 **Associate Professor, Mass Communications**
+
 **Director, The SIM Lab @ SIUE**
+
 📍 Southern Illinois University Edwardsville | 🌐 [apleith.github.io](https://apleith.github.io) | 🐦 [@APLeith](https://twitter.com/APLeith)
 
 ---

@@ -53,6 +53,3 @@ I'm available for consultations with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith\&layout=compact\&theme=dracula)](https://github.com/apleith)
 
----
-
-Would you like a version of this tailored for LinkedIn or a shorter bio version for conference use?

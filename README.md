@@ -1,39 +1,48 @@
-## 👋 Welcome — I'm **Dr. AP Leith**
+## 👋 Welcome — I'm Dr. Alex P. Leith
 
 **Associate Professor, Mass Communications**
 
 **Director, The SIM Lab @ SIUE**
 
-📍 Southern Illinois University Edwardsville | 🌐 [apleith.github.io](https://apleith.github.io) | 🐦 [@APLeith](https://twitter.com/APLeith)
+📍 Southern Illinois University Edwardsville | 🌐 [apleith.github.io](https://apleith.github.io) | 🔗 [ORCID: 0000-0003-1310-6763](https://orcid.org/0000-0003-1310-6763)
 
----
+-----
 
 ### 🧠 About Me
 
-I research **social and interactive media** with a focus on how people communicate in **virtual reality**, **remote work environments**, and **gaming cultures**. My work draws from **computational methods**, **mixed-methods design**, and **theoretical media analysis**, with the goal of shaping more inclusive, equitable, and engaging digital spaces.
+I research **social and interactive media**, exploring how we communicate and build communities in **virtual reality**, **remote work environments**, and **online gaming cultures**. My work uses **computational and mixed-methods** to understand and help shape more inclusive, equitable, and engaging digital spaces.
 
-Current project areas include:
+My current research areas include:
 
-* 🕶️ Virtual reality and the future of work
-* 🧠 Designing platforms with and for neurodivergent users
-* 🎮 Toxicity and communication in online gaming spaces
-* 📺 Parasocial relationships between streamers and audiences
+  * 🕶️ **Virtual Worlds & The Future of Work:** Investigating communication, equity, and well-being in virtual classrooms and workplaces.
+  * 🧠 **VR for Neurodiversity:** Exploring how platforms like VRChat can address communication barriers for individuals with Autism Spectrum Disorder.
+  * 🤖 **AI & Human Interaction:** Developing and studying AI agents for modeling and feedback in technical learning environments.
+  * 📺 **Streaming & Parasocial Relationships:** Analyzing audience engagement, community-building, and parasocial dynamics on platforms like Twitch.
 
-I direct [**The SIM Lab @ SIUE**](https://sim-lab-siue.github.io), where I collaborate with students and colleagues on funded research and applied media studies. My work has been published in *Computers & Education*, *Communication Monographs*, *Psychology of Popular Media*, *IEEE Transactions on Games*, and more.
+As Director of **The SIM Lab @ SIUE**, I mentor and collaborate with students and colleagues on funded research and applied media projects. My work has appeared in journals such as *Computers in Human Behavior Reports*, *Communication Monographs*, and *Psychology of Popular Media*.
 
----
+-----
 
-### 📬 Get in Touch
+### 🚀 Open-Source Software & Projects
 
-I'm available for consultations with:
+I create and maintain open-source tools to support teaching and research in mass communications.
 
-* Independent content creators
-* Organizations working in media, gaming, or immersive tech
-* Academic collaborators and research students
+  * **[Mass Communications Careers Dashboard](https://github.com/SIM-Lab-SIUE/mc-careers-dashboard)**
+      * An interactive SvelteKit dashboard that maps career paths in mass communications, visualizing occupations, state-level wages, required technologies, and aligned SIUE courses.
+  * **[Open WebUI Launcher for Local LLMs](https://github.com/apleith/open-webui-launcher)**
+      * A beginner-friendly launcher that automates the setup of local Large Language Models (Ollama & Open WebUI) with hardware checks and safe defaults for classroom use.
+  * **[mccoursepack (R Package)](https://www.google.com/search?q=https://github.com/SIM-Lab-SIUE/mccoursepack)**
+      * An R package designed for my MC 451/501 courses that handles weekly content pulls, provides reproducible assignment templates (PDF-first), and includes automatic update checks.
 
-📧 **Email:** [aleith@siue.edu](mailto:aleith@siue.edu)
-🐦 **Twitter/X:** [@APLeith](https://twitter.com/APLeith)
-🔗 **Website:** [apleith.github.io](https://apleith.github.io)
+-----
+
+### 📊 Research Datasets
+
+I have collected and managed several large-scale datasets for research purposes. Access is restricted due to platform Terms of Service and IRB governance, but documentation is available.
+
+  * **Twitch Chat Logs (2018-2019):** A collection of over 321 million messages from \~118,000 channels, involving more than 6.5 million unique viewers/chatters.
+  * **VRChat Tweets (2014-2023):** A dataset of over 1.4 million original, English-language tweets mentioning "VRChat."
+  * **Remote Work Tweets (2020 & 2021):** A corpus of over 1.4 million tweets from two key periods of the remote work transition (April 2020 and April 2021).
 
 ---
 
@@ -53,3 +62,16 @@ I'm available for consultations with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith\&layout=compact\&theme=dracula)](https://github.com/apleith)
 
+---
+
+### 📬 Get in Touch
+
+I'm always open to discussing new collaborations. Feel free to reach out if you are:
+
+  * An academic collaborator or prospective graduate student.
+  * An organization working in media, gaming, or immersive tech.
+  * A content creator interested in audience research.
+
+📧 **Email:** [aleith@siue.edu](mailto:aleith@siue.edu) | 📂 **GitHub:** [github.com/apleith](https://github.com/apleith) | 🐦 **Twitter/X:** [@APLeith](https://twitter.com/APLeith)
+
+-----
